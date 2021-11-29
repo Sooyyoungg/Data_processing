@@ -1,5 +1,9 @@
 # Functional MRI Data Preprocessing
-To pre-process fmri data, I apply atlas containing gordon and harvard-oxford
+To pre-process fmri data, I apply atlas containing gordon and harvard-oxford.    
+**All of the codes are made by me (Sooyyoungg).**
+
+## The project I'm in
+https://github.com/bettybetty3k/ABCD-fmriprep-preprocessing.git
 
 # Structure
 https://app.cloudcraft.co/view/ae47fa94-1b9d-4f06-9424-109d5eb28864?key=aPv9-PX8Oa0JLRkBnr1eDA
