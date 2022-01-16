@@ -1,5 +1,7 @@
 # fmriprep_downsampling
 
+Notion: https://caramel-log-9ed.notion.site/fmriprep-downsampling-9d4a8124b232469eb2598a410e77d661
+
 To downsample resting state fMRI image by voxel size   
 voxel size : (2, 2, 2) -> (8, 8, 8)
 
